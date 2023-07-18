@@ -1,0 +1,20 @@
+<?php $lang['page_name'] = "chronologypopup_lang";
+$lang['language'] = "english";
+$lang['chronologypopup1_slide_A1'] = "Select Start Time";
+$lang['chronologypopup1_slide_A2'] = "Select End Time";
+$lang['chronologypopup1_slide_A3'] = "Select Pickup Type";
+$lang['chronologypopup1_slide_B1'] = "From when do you need a cityride";
+$lang['chronologypopup1_slide_B2'] = "To when do you need a cityride";
+$lang['chronologypopup1_slide_C1'] = "SELECT MONTH ";
+$lang['chronologypopup1_slide_C2'] = "SELECT DATE";
+$lang['chronologypopup1_slide_C3'] = "NEXT";
+$lang['chronologypopup3_slide_B1'] = "Tell us your location in ";
+$lang['chronologypopup3_slide_C1'] = "Type in your Location ";
+$lang['chronologypopup3_slide_C2'] = "Locate me";
+$lang['chronologypopup3_slide_C3'] = "Show map";
+$lang['chronologypopup3_slide_C4'] = "POPULAR LOCATIONS";
+$lang['chronologypopup3_slide_C5'] = "NEED CITYRIDE AT AIRPORT";
+$lang['chronologypopup3_slide_C6'] = "Terminal";
+$lang['chronologypopup3_slide_C7'] = "Done";
+$lang['chronologypopup3_slide_C8'] = "Airport";
+ ?>

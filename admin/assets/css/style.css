@@ -1,0 +1,179 @@
+/*=========== FOR SIDE MENU AND HEADER START ==============*/
+body {
+	font-family: 'lato',sans-serif !important;
+}
+
+.skin-green .wrapper, .skin-green .main-sidebar, .skin-green .left-side {
+	background-color: #669945 !important;
+}
+
+.skin-green .sidebar-menu > li.header {
+	font-size: 16px !important;
+}
+.skin-green .sidebar-menu > li{
+	font-size: 15px !important;
+	background-color: transparent !important;
+}
+
+.skin-green .sidebar-menu > li:hover > a, .skin-green .sidebar-menu > li.active > a {
+    background: rgba(255, 255, 255, 0.2) !important;
+}
+
+.text-success {
+	border: 1px solid #fff;
+	color: #26ad01 !important;
+	border-radius: 50% !important;
+}
+
+.skin-green .sidebar-form input[type="text"], .skin-green .sidebar-form .btn {
+	background-color: #d7e5cf !important;
+}
+
+.skin-green .sidebar-menu > li > .treeview-menu {
+	background-color: #669945  !important;
+}
+/*=========== SIDE MENU AND HEADER END ==============*/
+
+/*=========== FOR LOGIN PAGE START   ==============*/
+.login-page, .register-page {
+	background: #fff !important;
+}
+
+.login-box-body, .register-box-body { 
+	background: #669945 !important;
+	color: #fff !important;
+}
+
+.btn-primary:hover, .btn-primary:active, .btn-primary.hover {
+	background: #2c6408 !important;
+}
+
+.btn-primary {
+	background: #2c6408 !important;
+}
+
+.skin-green .main-header li.user-header {
+	    background-color: #669945 !important;
+}
+/*=========== FOR LOGIN PAGE START   ==============*/ 
+
+
+@media only screen and (min-width: 1366px) {
+	.custom_head {
+		height:100px !important;
+		background-color:#fff !important;
+		max-height: 120px !important;  
+	}
+
+	.skin-green .main-header .navbar {
+		background-color:#fff !important;
+	}
+	.main-header>.navbar {
+		margin-left: 300px;
+	}
+
+	.cusom_sidebar {
+		padding-top: 120px !important;
+		width: 300px !important;
+	}
+
+	.logo {
+		background-color: #fff !important;
+		width: 300px !important;
+		margin-top:20px!important;
+	}
+
+	.content-wrapper, .right-side, .main-footer {
+		margin-left: 300 !important;
+	}
+
+	.main-header .logo  {
+		height: 80px !important; 
+	    width: 300px !important;
+	    padding: 0 0 !important;
+	}
+
+	.user-panel>.info {
+	    left: 85px !important;
+	    top: 20px;
+	    font-size: 18px;
+	}
+	.sidebar {
+	    padding: 30px !important;
+	}
+
+	.user-panel>.image>img {
+		max-width:70px !important;
+	    width:70px !important;
+	    height:70px !important;
+	}
+
+	.user-panel>.info>a {
+		font-size: 15px !important;
+		font-weight: 100 !important;
+	}
+
+	.navbar-nav>.user-menu .user-image {
+		width:70px !important;
+		height:70px !important;
+	}
+
+	.dropdown-toggle {
+		margin-top:10px !important;
+		background: transparent !important;
+		padding-right: 35px !important;
+	}
+
+	.hidden-xs {
+		position: relative;
+		top: 15px;
+		font-size: 18px !important;
+		color: black !important;
+	}
+
+	.skin-green .main-header .navbar .sidebar-toggle{
+    	background-color: #5FA244 !important;
+    	position: relative;
+	    top: 2px;
+	    left: -30px;
+    }
+
+	.sidebar-mini.sidebar-collapse .sidebar {
+		padding:0px !important;
+		 padding-bottom: 10px !important;
+	}
+
+    .sidebar-mini.sidebar-collapse .sidebar-menu>li:hover>a>span {
+    	background: #5FA244 !important;
+    }
+
+    .sidebar-mini.sidebar-collapse .sidebar-menu>li:hover>a>span:not(.pull-right),
+    .sidebar-mini.sidebar-collapse .sidebar-menu>li:hover>.treeview-menu { 
+     	width:235px !important;
+    }
+
+    .small-box .icon {
+    	top:10 !important;
+    }
+    .sidebar-mini.sidebar-collapse .main-header .logo {
+    	width: 50px !important;
+	}
+	.main-header .sidebar-toggle {
+		padding: 0px  5px !important;
+	}
+
+	.navbar-nav > .user-menu > .dropdown-menu > li.user-header {
+		height:75px !important;
+	}
+	.navbar-nav>.user-menu>.dropdown-menu>.user-footer {
+		padding-top: 28px !important;
+	}
+
+	.content-wrapper {
+		min-height:850px !important;
+	}
+
+
+}
+
+	

@@ -1,0 +1,590 @@
+/* Large desktop */
+@media (min-width: 1200px) {
+    .body-landing {
+        /*overflow-y: hidden;*/
+        /*overflow-x: hidden;*/
+    }
+    .sdf-1 {
+        width: 33.05%;
+        margin: 0 3px 0 0;
+    }
+    .dsf-1 {
+        width: 33.05%;
+        margin: 0 3px 3px 0;
+    }
+    .blc-w {
+        width: 32%;
+        margin: 0 1px;
+    }
+    .bac-gry {
+        width: 64%;
+    }
+}
+
+
+@media (min-width: 1281px) and (max-width: 1400px) {
+
+}
+
+
+/* Landscape phones and down */
+@media (max-width: 480px) {
+    .cit-main img {
+        width: 100%;
+    }
+
+    .nav-ul-sub li a {
+        color: #565656 !important;
+    }
+
+    .nav-ul-sub {
+        float: none;
+    }
+
+    .h3-land-span {
+        padding: 14px;
+    }
+
+    .landing-content h3 {
+        font-size: 16px;
+    }
+
+    .dk-1 img {
+        width: 30px;
+    }
+
+    .dk-2 img {
+        width: 25px;
+    }
+
+    .nav-custom .navbar {
+        padding: 25px 0 0 0;
+    }
+
+    .nav-custom .navbar-default .navbar-collapse, .nav-custom .navbar-default .navbar-form {
+        border-color: transparent;
+    }
+
+    .banner-landing {
+        min-height: 560px;
+    }
+
+    .city-1 {
+        padding: 10px 0 0 0;
+    }
+
+    .city-sel h3 {
+        font-size: 15px;
+        top: 8px;
+    }
+
+    .city-1 h5 {
+        font-size: 14px;
+    }
+
+    .cit-main h4 {
+        top: 106px;
+    }
+
+    .second-scn-zoom h3 {
+        font-size: 14px;
+    }
+
+    .second-scn-zoom h2 img {
+        width: 40px;
+        height: 40px;
+    }
+
+    .bx-controls-direction {
+        display: none;
+    }
+
+    .app-promo {
+        background-size: cover;
+        height: 100%;
+    }
+
+    .app-promo h3 {
+        font-size: 18px;
+        padding: 75px 0 10px 0;
+    }
+
+    .app-promo img {
+        width: 90px;
+        position: relative;
+        bottom: 25px;
+    }
+
+    .club-inner {
+        margin: 0 0 10px 0;
+    }
+
+    .flex-price-main {
+        margin: 0 0 10px 0;
+    }
+
+    .car-slider {
+        background: url(../img/home/28.png) no-repeat;
+        background-size: cover;
+        min-height: 100%;
+        background-repeat: no-repeat;
+        height: 100%;
+        display: none;
+    }
+
+    .caption-scn h2 img {
+        width: 30px;
+    }
+
+    .caption-scn h3 {
+        font-size: 15px;
+    }
+
+    .caption-scn h4 {
+        font-size: 15px;
+    }
+
+    .customers {
+        height: 100%;
+    }
+
+    .landing-content h1 {
+        font-size: 22px;
+    }
+
+    .landing-content h2 {
+        font-size: 30px;
+    }
+
+    .footer-main h3 {
+        font-size: 16px;
+        padding: 15px 0 10px 0;
+    }
+
+    .car-works .bx-wrapper img {
+        width: 50px;
+    }
+
+    .car-works h4 {
+        font-size: 15px;
+    }
+
+    .car-works h5 {
+        font-size: 14px;
+    }
+
+    .car-works h6 a {
+        font-size: 15px;
+    }
+
+    .btn-tcki-1:after {
+        display: none;
+    }
+
+    .btn-tcki-2:after {
+        display: none;
+    }
+
+    #back-to-top img {
+        width: 30px;
+    }
+
+    .pop-c-1 {
+        display: none;
+    }
+
+    .ride-add-pop h2 img {
+        display: none;
+    }
+
+    .cnt-ridez {
+        background: none;
+        height: 100%;
+        position: relative;
+        right: 30px;
+    }
+
+    .hd-inner-ul-1 {
+        padding: 0;
+    }
+
+    .hd-inner-ul-1 a img {
+        width: 35px;
+    }
+
+    .logo-img-inner img {
+        margin: 5px 0 0 0;
+        width: 150px;
+    }
+
+    .pds-zero {
+        padding: 0;
+    }
+
+    .spm-panel {
+        font-size: 14px;
+        margin: 0 10px 0 0;
+    }
+
+    .select-main-e h4 {
+        font-size: 14px;
+        padding: 10px 10px;
+        margin: 0 0 5px 0;
+    }
+
+    .right-tariff-h6 {
+        font-size: 14px;
+        padding: 0px 0 10px 0;
+    }
+
+    .right-tariff-1-inner h5 {
+        font-size: 12px;
+    }
+
+    .right-tariff-1-inner h4 img {
+        width: 10px;
+    }
+
+    .nav-inner-sub li a img {
+        width: 18px;
+    }
+
+    .nav-inner-sub ul li a {
+        font-size: 11px;
+    }
+
+    .nav-inner-sub .selectpicker {
+        font-size: 14px;
+        padding: 5px;
+        width: 100%;
+    }
+
+    .nav-inner-sub ul li {
+        margin: 0px 5px 0 0;
+    }
+
+    .nav-inner-sub ul {
+        padding: 0;
+    }
+
+    .sel-car-row .selectpicker {
+
+        padding: 5px 76px 5px 20px;
+    }
+
+    .offer-1 h2 {
+        font-size: 15px;
+        padding: 15px;
+        margin: 10px 0 0px 0;
+    }
+
+    .offer-2 h3 {
+        font-size: 15px;
+        margin: 5px 0 0 0;
+        padding: 20px 0 0 0;
+    }
+
+    .offer-2 h4 {
+        font-size: 15px;
+    }
+
+    .offer-2 {
+        height: 100%;
+    }
+
+    .offer-2 h5 a {
+        font-size: 15px;
+        padding: 8px 10px;
+    }
+
+    .hovereffect a.info {
+        padding: 7px 14px;
+        margin: 0 0 0 0;
+        padding: 0 0;
+    }
+
+    .offer-3 h6 {
+        padding: 5px 0 0 0;
+    }
+
+    .offer-3 h3 {
+        font-size: 15px;
+    }
+
+    .offer-3 h4 {
+        font-size: 14px;
+    }
+
+    #myModalz .modal-content {
+        background: #78be28;
+        position: relative;
+        right: 10px;
+    }
+
+    .content-ul-ride-main h3 {
+        color: #fff;
+        font-size: 16px;
+        margin: 0;
+        padding: 0;
+    }
+
+    .for-lang-trans .selectpicker {
+        font-size: 14px;
+        position: absolute;
+        left: 0;
+        top: 10px;
+    }
+
+    .content-ul-ride-main h3 span {
+        color: #fff;
+    }
+
+    .texty-c-1 p {
+        position: inherit;
+    }
+
+    #cnt-ride-1 {
+        position: relative;
+        left: 0;
+    }
+
+    .texty-c-2 {
+        left: 10px !important;
+        bottom: 5px !important;
+    }
+
+    #cnt-ride-3 {
+        position: relative;
+        right: 0;
+    }
+
+    .time-sl-main {
+        display: none;
+    }
+
+    .ride-add-pop ul {
+        position: relative;
+        left: 0;
+        padding: 0;
+    }
+
+    .content-ul-ride-main h4 {
+        color: #fff;
+        font-size: 14px;
+        padding: 20px 0 10px 60px;
+        text-align: center;
+    }
+
+    .inp-col-10 {
+        padding: 20px 0;
+    }
+
+    .inp-col-10 .col-lg-3 {
+        padding: 0;
+    }
+
+    .inpj {
+        margin: 0 0 5px 0;
+    }
+
+    .tert-1 {
+        display: none;
+    }
+
+    .sh-map {
+        float: right;
+    }
+
+    #myModallogin .modal-content {
+        height: 100%;
+        background-size: cover;
+        width: 100%;
+    }
+
+    .nav-tab-sn-pop li a {
+        color: #fff !important;
+        background-color: #76b058 !important;
+        border: 1px solid #76b058 !important;
+        border-bottom-color: transparent;
+        cursor: default;
+        border-radius: 0px !important;
+    }
+
+    .nav-tab-sn-pop li {
+        margin: 0 0 5px 0;
+    }
+    .nav-tab-sn-pop li a {
+        padding: 5px 10px;
+        font-size: 12px;
+    }
+    .signin-contents a {
+        color: #fff;
+        font-size: 10px;
+        font-family: 'Lato', sans-serif !important;
+        font-weight: 400;
+        background: #76b058;
+        padding: 12px 5px;
+    }
+    .ck-center label {
+        color: #000;
+    }
+    .first-rght-login {
+        float: none;
+    }
+    .but-pop-1 {
+        margin: 0 0 20px 86px;
+    }
+    .dsf-1 {
+        background: transparent;
+    }
+    .timerhourminutes {
+        top: 36px !important;
+        right: 75px !important;
+    }
+    .timerseconds {
+        top: 36px !important;
+        right: 41px !important;
+    }
+    #timerhourminutes {
+        font-size: 12px !important;
+    }
+    #timerseconds {
+        font-size: 12px !important;
+    }
+    .check-4 {
+        height: 140px;
+    }
+    .check-3 {
+        height: 150px;
+    }
+    .ck-2 {
+        font-size: 15px;
+        float: none;
+    }
+    .ck-1 {
+        font-size: 15px;
+    }
+}
+
+@media (min-width: 320px) and (max-width: 359px){
+
+    .landing-content h1 {
+        font-size: 22px;
+    }
+    .landing-content h2 {
+        font-size: 30px;
+    }
+    .dk-1 img {
+        width: 20px;
+    }
+    .dk-2 img {
+        width: 20px;
+    }
+    .h3-land-span {
+        padding: 10px;
+    }
+    .landing-content h3 {
+        font-size: 14px;
+    }
+    .banner-landing {
+        min-height: 466px;
+    }
+    .cit-main h4 {
+        top: 95px;
+    }
+    .offer-2 h5 {
+        margin: 25px 0 20px 0;
+    }
+    .d-offer-3 {
+        background: #fff;
+    }
+    .signin-contents a {
+        font-size: 9px;
+        padding: 12px 1px;
+    }
+    .timerhourminutes {
+        top: 26px !important;
+        right: 60px !important;
+    }
+    .timerseconds {
+        top: 26px !important;
+        right: 35px !important;
+    }
+}
+
+
+@media (min-width: 481px) and (max-width: 769px) {
+    .banner-landing {
+        min-height: 934px;
+    }
+    .nav-custom {
+        background: #fff;
+    }
+    .nav-ul-sub li a {
+        font-size: 12px;
+        color: #565656 !important;
+    }
+    .app-promo {
+        height: 324px;
+    }
+    .caption-scn {
+        padding: 110px 0 20px 0;
+    }
+    .pop-c-1 {
+        width: 184px;
+        height: 63px;
+    }
+    .p-c-1 {
+        display: none;
+    }
+	.app-promo h3 {
+
+    padding: 40px 0 10px 0;
+}
+.col-lg-3.col-md-3.col-sm-3.col-xs-4.for-lang-trans {
+    padding: 0% 0% 0% 65%;
+}
+.for-lang-trans .selectpicker {
+	top:0;
+}
+	
+}
+
+
+@media (min-width: 1650px) and (max-width: 2000px){
+.nav-custom {
+
+    background-size: cover;
+}
+
+.app-promo {
+    background-size: cover;
+}
+.car-slider {
+    background-size: cover;
+    min-height: 1020px;
+}
+
+.banner-landing {
+    min-height: 883px;
+
+}
+.landing-content {
+    padding: 170px 0 0 0;
+}
+.landing-content h2 {
+    font-size: 70px;
+    padding: 0 0 30px 0;
+    margin: 0;
+}
+
+}
+
+@media (min-width: 769px) and (max-width: 1024px) {
+    .nav-custom {
+        background: #fff;
+    }
+    .nav-ul-sub li a {
+        color: #565656 !important;
+    }
+}

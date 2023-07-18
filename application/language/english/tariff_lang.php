@@ -1,0 +1,25 @@
+<?php $lang['page_name'] = "tariff_lang";
+$lang['language'] = "english";
+$lang['tariff_slide_B1'] = "Mon-Sun";
+$lang['tariff_slide_B2'] = "Special";
+$lang['tariff_slide_B3'] = "Peak Season ?";
+$lang['tariff_slide_C1'] = "TARIFF CALCULATOR";
+$lang['tariff_slide_C2'] = "Select a car";
+$lang['tariff_slide_C3'] = "From Date";
+$lang['tariff_slide_C4'] = "To Date";
+$lang['tariff_slide_C5'] = "All prices include free fuel ";
+$lang['tariff_slide_C6'] = "Check Availability";
+$lang['tariff_slide_C7'] = "FEATURES";
+$lang['tariff_slide_C8'] = "Prices Include Free Fuel";
+$lang['tariff_slide_C9'] = "Insurance & Tax Included";
+$lang['tariff_slide_C10'] = "Free Kms/Hr";
+$lang['tariff_slide_C11'] = "Refundable Deposit";
+$lang['tariff_slide_C12'] = "Free Km for every hour";
+$lang['tariff_slide_C13'] = "NIL";
+$lang['tariff_slide_C14'] = "Minimum billing & hours";
+$lang['tariff_slide_C15'] = "Assurance";
+$lang['tariff_slide_C16'] = "seater";
+$lang['tariff_slide_C17'] = "/hr";
+$lang['tariff_slide_C18'] = "per excess km";
+$lang['tariff_slide_C19'] = "Km Free";
+ ?>
